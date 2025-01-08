@@ -26,7 +26,7 @@
 
 ### CS 217 / CS 240: Artificial Intelligence and Machine Learning
 
-**Course Website**: https://www.cse.iitb.ac.in/~cs217/2025/wh
+**Course Website**: https://www.cse.iitb.ac.in/~cs217/2025/
 
 ### CS 218: Design and Analysis of Algorithms
 
