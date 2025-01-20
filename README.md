@@ -72,3 +72,4 @@ The repositories for these courses are being maintained by:
 - CS 6104: Abhi
 - CS 726: Niral
 - CS 766: Malay
+- CS 433: Arijit
